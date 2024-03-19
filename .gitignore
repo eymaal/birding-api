@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Cloud secret key ###
+/src/main/resources/turing-lyceum-289114-ecd49e9babb4.json

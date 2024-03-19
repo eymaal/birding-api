@@ -1,0 +1,9 @@
+gcp:
+  config:
+    file: turing-lyceum-289114-ecd49e9babb4.json
+  project:
+    id: turing-lyceum-289114
+  bucket:
+    id: birding-image-bucket
+  dir:
+    name: forum
